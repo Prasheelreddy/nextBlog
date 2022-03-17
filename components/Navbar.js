@@ -22,7 +22,7 @@ export default function Navbar() {
             <ul>
                 <li>
                     <Link href="/">
-                        <button className="btn-logo">NXTBLOG</button>
+                        <button className="btn-logo">NEXTBLOG</button>
                     </Link>
                 </li>
 
